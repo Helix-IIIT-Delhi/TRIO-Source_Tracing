@@ -22,10 +22,6 @@
 
 **Conference**: EUSIPCO 2025
 
-**Paper**: [IEEE 11226379](https://ieeexplore.ieee.org/document/11226379)
-
-**ArXiv**: [2506.01157](https://arxiv.org/abs/2506.01157)
-
 ---
 
 ## 🎯 Overview
