@@ -267,8 +267,6 @@ python scripts/inference.py \
 
 ## 📚 Citation
 
-If you use TRIO in your research, please cite:
-
 ```bibtex
 @inproceedings{girish2025trio,
   title={Source Tracing of Synthetic Speech Systems Through Paralinguistic Pre-Trained Representations},
@@ -278,49 +276,11 @@ If you use TRIO in your research, please cite:
 }
 ```
 
-**ArXiv Citation:**
-```bibtex
-@article{girish2025trio_arxiv,
-  title={Source Tracing of Synthetic Speech Systems Through Paralinguistic Pre-Trained Representations},
-  author={Girish and others},
-  journal={arXiv preprint arXiv:2506.01157},
-  year={2025}
-}
-```
-
 ---
 
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) for details.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/YourFeature`)
-3. Commit changes (`git commit -m 'Add YourFeature'`)
-4. Push to branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
----
-
-## 📞 Questions & Support
-
-- **Issues**: [GitHub Issues](https://github.com/Helix-IIIT-Delhi/TRIO-Source_Tracing/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Helix-IIIT-Delhi/TRIO-Source_Tracing/discussions)
-
----
-
-## 🙏 Acknowledgments
-
-- EUSIPCO 2025 organizing committee
-- All dataset creators and annotation contributors
-- Paralinguistic pre-trained model developers
-- Research colleagues and reviewers
 
 ---
 
