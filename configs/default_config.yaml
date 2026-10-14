@@ -1,0 +1,27 @@
+model:
+  num_sources: 10
+  trilllsson_dim: 2048
+  xvector_dim: 512
+  hidden_dim: 512
+  use_trilllsson: true
+  use_xvector: true
+
+training:
+  batch_size: 32
+  num_epochs: 100
+  learning_rate: 0.001
+  weight_decay: 1e-5
+  optimizer: adam
+  loss_weights:
+    ce: 1.0
+    cca: 0.1
+
+data:
+  sample_rate: 16000
+  num_workers: 4
+  train_split: 0.8
+  val_split: 0.1
+  test_split: 0.1
+
+device: cuda
+seed: 42
