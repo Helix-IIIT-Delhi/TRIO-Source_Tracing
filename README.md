@@ -4,7 +4,7 @@
 
 ## Gated Canonical Correlation Attention Network for Paralinguistic Source Tracing
 
-[![Paper](https://img.shields.io/badge/Paper-EUSIPCO%202025-blue)](https://eusipco2025.org/)
+[![Paper](https://img.shields.io/badge/Paper-IEEE%2011226379-blue)](https://ieeexplore.ieee.org/document/11226379)
 [![ArXiv](https://img.shields.io/badge/ArXiv-2506.01157-red)](https://arxiv.org/abs/2506.01157)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
